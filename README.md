@@ -74,31 +74,6 @@ Keep the executable, its accompanying `_Data` folder, and the other included fil
 
 A source-code download is not a playable build. If no compiled demo has been attached yet, use the Unity instructions below.
 
-## Opening the Source Project
-
-If this repository includes the Unity project:
-
-1. Install **Unity Hub** and **Unity 6000.3.13f1**.
-2. Add the project folder containing `Assets`, `Packages`, and `ProjectSettings` to Unity Hub.
-3. Open the project and wait for Unity to import its assets and resolve packages.
-4. Open `StartScene` and enter Play Mode.
-
-The project uses **Unity and C#**. Artwork was created in **Photoshop**.
-
-## Development and Credits
-
-This is a solo personal project created as part of my game-design portfolio.
-
-My work includes:
-
-- Game concept and original worldbuilding
-- Combat systems, card design, and encounter design
-- Narrative and character design
-- Original 2D artwork
-- Unity scene and UI integration
-- Playtesting and iteration
-
-**AI assistance was used for C# implementation and debugging.** Game design, narrative direction, and original artwork are my own.
 
 ## Prototype Notes and Feedback
 
